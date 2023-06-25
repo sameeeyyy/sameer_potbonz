@@ -1,0 +1,56 @@
+[
+    {
+      "categoryTag": "Training",
+      "featuredImage": "/Assets/images/post__1.jpg",
+      "author": "Corabelle Durrad",
+      "publishDate": "02.01.2022",
+      "title": "5 Crazy Things Dogs Do When Left Alone At Home",
+      "content": "Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus.",
+      "postType": "latest"
+    },
+    {
+      "categoryTag": "Pet Health",
+      "featuredImage": "/Assets/images/post__2.jpg",
+      "author": "Corabelle Durrad",
+      "publishDate": "02.01.2022",
+      "title": "Your Dog Desperately Needs From You",
+      "content": "Amet porttitor eget dolor morbi non arcu risus quis varius  sodales ut etiam sit amet",
+      "postType": "latest"
+    },
+    {
+      "categoryTag": "Pet Food",
+      "featuredImage": "/Assets/images/post__3.jpg",
+      "author": "Corabelle Durrad",
+      "publishDate": "02.01.2022",
+      "title": "Top Cat Foods to Consider If You Are a First Time Owner",
+      "content": "Vel eros donec ac odio tempor orci dapibus ultrices. Arcu felis bibendum ut tristique et egestas quis",
+      "postType": "latest"
+    },
+    {
+        "categoryTag": "Training",
+        "featuredImage": "/Assets/images/post__4.jpg",
+        "author": "Corabelle Durrad",
+        "publishDate": "02.01.2022",
+        "title": "5 Crazy Things Dogs Do When Left Alone At Home",
+        "content": "Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus.",
+        "postType": "other"
+      },
+      {
+        "categoryTag": "Training",
+        "featuredImage": "/Assets/images/post__5.jpg",
+        "author": "Corabelle Durrad",
+        "publishDate": "02.01.2022",
+        "title": "Your Dog Desperately Needs From You",
+        "content": "Amet porttitor eget dolor morbi non arcu risus quis varius  sodales ut etiam sit amet",
+        "postType": "other"
+      },
+      {
+        "categoryTag": "Training",
+        "featuredImage": "/Assets/images/post__6.jpg",
+        "author": "Corabelle Durrad",
+        "publishDate": "02.01.2022",
+        "title": "Top Cat Foods to Consider If You Are a First Time Owner",
+        "content": "Vel eros donec ac odio tempor orci dapibus ultrices. Arcu felis bibendum ut tristique et egestas quis",
+        "postType": "other"
+      }
+]

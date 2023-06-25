@@ -1,0 +1,44 @@
+[
+    {
+      "icon": "/Assets/images/serviceIcon1.svg",
+      "alt": "",
+      "heading": "Walking & Sitting",
+      "detail": "Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae eget dolor morbi",
+      "rates": "From $15 / hour"
+    },
+    {
+      "icon": "/Assets/images/serviceIcon2.svg",
+      "alt": "",
+      "heading": "Pet Grooming",
+      "detail": "Et odio pellentesque diam volutpat commodo sed egestas egestas  pellentesque nec nam",
+      "rates": "From $39 / complex"
+    },
+    {
+      "icon": "/Assets/images/serviceIcon3.svg",
+      "alt": "",
+      "heading": "Pet Training",
+      "detail": "Aliquam ut porttitor leo a diam sollicitudin tempor  sit amet est placerat",
+      "rates": "From $27 / hour"
+    },
+    {
+      "icon": "/Assets/images/serviceIcon4.svg",
+      "alt": "",
+      "heading": "Pet Taxi",
+      "detail": "Maecenas ultricies mi eget mauris pharetra et ultrices consectetur adipiscing elit",
+      "rates": "From $22  / trip"
+    },
+    {
+      "icon": "/Assets/images/serviceIcon5.svg",
+      "alt": "",
+      "heading": "Health & Wellness",
+      "detail": "Amet porttitor eget dolor morbi non arcu risus quis varius blandit aliquam etiam",
+      "rates": "From $39/ visit"
+    },
+    {
+      "icon": "/Assets/images/serviceIcon6.svg",
+      "alt": "",
+      "heading": "Pet Hotel",
+      "detail": "Turpis massa sed elementum tempus egestas sed sed risus aliquam  urna cursus eget n",
+      "rates": "From $15 / night"
+    }
+]

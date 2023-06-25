@@ -1,0 +1,30 @@
+[
+    {
+      "icon": "/Assets/images/contactIcons1.svg",
+      "alt": "",
+      "heading": "Phone",
+      "detail1": "(913) 756-3126",
+      "detail2": "(921) 557-1203"
+    },
+    {
+      "icon": "/Assets/images/contactIcon2.svg",
+      "alt": "",
+      "heading": "Email",
+      "detail1": "petopia@example.com",
+      "detail2": "petopia@email.com"
+    },
+    {
+      "icon": "/Assets/images/contactIcon3.svg",
+      "alt": "",
+      "heading": "Address",
+      "detail1": "17 Parkman Place, 2122",
+      "detail2": "United States"
+    },
+    {
+      "icon": "/Assets/images/contactIcon4.svg",
+      "alt": "",
+      "heading": "Open Hours",
+      "detail1": "Mon - Fri: 7am - 6pm",
+      "detail2": "Saturday: 9am - 4pm"
+    }
+]

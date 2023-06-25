@@ -1,0 +1,26 @@
+[
+    {
+      "icon": "/Assets/images/stats1.svg",
+      "alt": "",
+      "count": 120,
+      "detail": "Sutisfide Cliens"
+    },
+    {
+      "icon": "/Assets/images/stats2.svg",
+      "alt": "",
+      "count": 20,
+      "detail": "Years Experience"
+    },
+    {
+      "icon": "/Assets/images/stats3.svg",
+      "alt": "",
+      "count": 70,
+      "detail": "Brands Available"
+    },
+    {
+      "icon": "/Assets/images/stats4.svg",
+      "alt": "",
+      "count": 200,
+      "detail": "Products for pets"
+    }
+]

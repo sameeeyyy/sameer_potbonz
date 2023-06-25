@@ -1,0 +1,66 @@
+[
+    {
+        "image": "/Assets/images/product_img_1.jpg",
+        "title": "Detachable Gravity Bowl Food Feeder",
+        "starRating": 5,
+        "price": "$30.12",
+        "productType": "feature"
+    },
+    {
+        "image": "/Assets/images/product_img_2.jpg",
+        "title": "Dog Collar for Small, Medium, Large Dogs",
+        "starRating": 5,
+        "price": "$16.88",
+        "productType": "feature"
+    },
+    {
+        "image": "/Assets/images/product_img_3.jpg",
+        "title": "Pink Embossed Spiked Collar",
+        "starRating": 5,
+        "price": "$34.98",
+        "productType": "feature"
+    },
+    {
+        "image": "/Assets/images/product_img_4.jpg",
+        "title": "Black Leather Spike Dog Collar, Small",
+        "starRating": 5,
+        "price": "$23.55",
+        "productType": "sale"
+    },
+    {
+        "image": "/Assets/images/product_img_5.jpg",
+        "title": "Dog Chew Toys for Chewers",
+        "starRating": 5,
+        "price": "$8.99",
+        "productType": "sale"
+    },
+    {
+        "image": "/Assets/images/product_img_6.jpg",
+        "title": "Duck Jerky Strips Dog Treats",
+        "starRating": 5,
+        "price": "$32.99",
+        "productType": "sale"
+    },
+    {
+        "image": "/Assets/images/product_img_7.jpg",
+        "title": "Carrying Bag for Cats Weighing up to 6 kg",
+        "starRating": 5,
+        "price": "$70.43",
+        "productType": "toprated"
+    },
+    {
+        "image": "/Assets/images/product_img_7.jpg",
+        "title": "Rhinestone Pet Collar",
+        "starRating": 5,
+        "price": "$35.66",
+        "productType": "toprated"
+    }
+    ,
+    {
+        "image": "/Assets/images/product_img_7.jpg",
+        "title": "Teeth Cleaning Toy for Dogs",
+        "starRating": 5,
+        "price": "$12.98",
+        "productType": "toprated"
+    }
+]
