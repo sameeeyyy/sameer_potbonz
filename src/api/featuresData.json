@@ -1,24 +1,24 @@
 [
     {
-        "icon": "/Assets/images/trust.svg",
+        "icon": "Assets/images/trust.svg",
         "alt": "Trust & Safety",
         "heading": "Trust & Safety",
         "detail": "Velit euismod pellentes"
     },
     {
-        "icon": "/Assets/images/discount.svg",
+        "icon": "Assets/images/discount.svg",
         "alt": "Discounts",
         "heading": "Discounts",
         "detail": "Bibendum ut tristique"
     },
     {
-        "icon": "/Assets/images/support.svg",
+        "icon": "Assets/images/support.svg",
         "alt": "Support",
         "heading": "Support",
         "detail": "Egestas quis ipsum velit"
     },
     {
-        "icon": "/Assets/images/guarantee.svg",
+        "icon": "Assets/images/guarantee.svg",
         "alt": "Guarantee",
         "heading": "Guarantee",
         "detail": "Convallis tellus id interdum"

@@ -75,7 +75,7 @@ export default function ShopNow() {
                   maxWidth: "345px",
                 }
               }}>
-                <Collection title={'Luxury Fashion Collection'} link={'#'} image={'/Assets/images/fashion-collection.png'}/>
+                <Collection title={'Luxury Fashion Collection'} link={'#'} image={'Assets/images/fashion-collection.png'}/>
               </Box>
               <Box sx={{ 
                 height: '50%', 
@@ -101,7 +101,7 @@ export default function ShopNow() {
                   marginLeft: "0px"
                 }
               }}>
-                <Collection title={'Shop What’s Trending'} link={'#'} image={'/Assets/images/trending.png'}/>
+                <Collection title={'Shop What’s Trending'} link={'#'} image={'Assets/images/trending.png'}/>
               </Box>
           </Grid>
           </Grid>

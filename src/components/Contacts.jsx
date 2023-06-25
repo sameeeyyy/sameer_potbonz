@@ -34,20 +34,26 @@ export default function Contacts() {
     marginBottom: "18px"
   }));
 
-  const Heading = styled(Typography)(({ }) => ({
+  const Heading = styled(Typography)(({ theme }) => ({
     fontFamily: customTheme.fonts.nunito,
-    color: customTheme.color.headingColor,
+    textAlign: 'center',
+    fontSize: '68px',
+    lineHeight: '71px',
     fontWeight: '800',
-    letterSpacing: "unset",
-    marginBottom: "12px",
-    textAlign: "center",
+    color: customTheme.color.headingColor,
+    marginBottom: '30px',
+    marginTop: '15px',
     [theme.breakpoints.up('xs')]: {
-      fontSize: '26px',
-      lineHeight: '32px',
+      fontSize: '28px',
+      lineHeight: '28px',
     },
     [theme.breakpoints.up('sm')]: {
-      fontSize: '46px',
-      lineHeight: '46px',
+      fontSize: '48px',
+      lineHeight: '48px',
+    },
+    [theme.breakpoints.up('lg')]: {
+      fontSize: '68px',
+      lineHeight: '71px',
     },
   }));
 
@@ -156,7 +162,7 @@ export default function Contacts() {
                 }}>
                   <CardMedia
                       component= "img"
-                      // alt= {data.alt}
+                      alt= {data.heading}
                       image= {data.icon}
                       sx={{width: "30px"}}
                   />

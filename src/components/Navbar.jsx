@@ -38,7 +38,7 @@ export default function Navbar() {
               <CardMedia
                 component="img"
                 alt="Petbonz Logo"
-                image="/Assets/images/logo.png"
+                image="Assets/images/logo.png"
               />
             </Link>
           </Box>

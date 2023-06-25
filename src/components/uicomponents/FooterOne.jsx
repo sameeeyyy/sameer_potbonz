@@ -29,7 +29,7 @@ export default function FooterOne() {
       <CardMedia
         component="img"
         alt="Pets Bonz"
-        image="/Assets/images/footer__logo.png"
+        image="Assets/images/footer__logo.png"
         sx={{ width: '95px', marginBottom: '21px' }}
       />
       <Paragraph>Tristique nulla aliquet enim tortor at auctor urna nunc. Massa enim nec dui nunc mattis enim ut tellus. Sed ut perspiciatis unde ...</Paragraph>

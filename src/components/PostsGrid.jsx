@@ -40,15 +40,22 @@ export default function PostsGrid(props) {
 
   const Heading = styled(Typography)(({ theme }) => ({
     fontFamily: customTheme.fonts.nunito,
+    textAlign: 'center',
+    fontSize: '68px',
+    lineHeight: '71px',
     fontWeight: '800',
     color: customTheme.color.headingColor,
     marginBottom: '30px',
     marginTop: '15px',
     [theme.breakpoints.up('xs')]: {
-      fontSize: '26px',
-      lineHeight: '32px',
+      fontSize: '28px',
+      lineHeight: '28px',
     },
     [theme.breakpoints.up('sm')]: {
+      fontSize: '48px',
+      lineHeight: '48px',
+    },
+    [theme.breakpoints.up('lg')]: {
       fontSize: '68px',
       lineHeight: '71px',
     },

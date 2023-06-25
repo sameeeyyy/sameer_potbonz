@@ -97,7 +97,7 @@ export default function FeaturedBanner() {
                     <CardMedia
                         component="img"
                         alt="Сheck Out Our Specials"
-                        image="/Assets/images/our-specials.jpg"
+                        image="Assets/images/our-specials.jpg"
                     />
                 </Box>
             </Grid>

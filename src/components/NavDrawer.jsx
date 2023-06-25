@@ -73,7 +73,7 @@ export default function NavDrawer() {
             <CardMedia
                 component="img"
                 alt="Petbonz Logo"
-                image="/Assets/images/logo.png"
+                image="Assets/images/logo.png"
                 sx={{ width: '26%'}}
             />
 

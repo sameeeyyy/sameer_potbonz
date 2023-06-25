@@ -156,14 +156,14 @@ export default function Services() {
               border: "1px solid",
               borderColor: `${customTheme.color.serviceBorderColor}`,
               borderRadius: "8px",
-              backgroundImage: "url(/Assets/images/serviceBg.jpg)",
+              backgroundImage: "url(Assets/images/serviceBg.jpg)",
               backgroundRepeat: "no-repeat",
               backgroundSize: "cover",
               backgroundPosition: "bottom right",
               width: "100%",
               maxWidth: "calc(33.33% - 19px) !important",
               '&:hover': {
-                backgroundImage: "url(/Assets/images/serviceBgHover.jpg)",
+                backgroundImage: "url(Assets/images/serviceBgHover.jpg)",
                 transition: 'all 0.3s ease-out',
                 '& h2': {
                   color: `${customTheme.color.bgWhite}`, // Change the color of the heading

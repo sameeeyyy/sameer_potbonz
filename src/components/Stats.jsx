@@ -70,7 +70,7 @@ export default function Banner() {
   return (
     <Box>
       <Container sx={{maxWidth: "1418px !important"}}>
-        <Box sx={{backgroundImage: "url(/Assets/images/statsBg.jpg)", 
+        <Box sx={{backgroundImage: "url(Assets/images/statsBg.jpg)", 
                   backgroundRepeat: "no-repeat", 
                   backgroundPosition: "center", 
                   backgroundSize: "cover",

@@ -79,7 +79,7 @@ export default function Banner() {
 
   return (
     <Box sx={{
-        backgroundImage: "url(/Assets/images/bannerBgNew.png)", 
+        backgroundImage: "url(Assets/images/bannerBgNew.png)", 
         backgroundRepeat: "no-repeat", 
         backgroundPosition: "top right", 
         padding: "101px 0 43px",
@@ -157,7 +157,7 @@ export default function Banner() {
               <CardMedia
                     component="img"
                     alt="Pet Image"
-                    image="/Assets/images/bannerDisplay.png"
+                    image="Assets/images/bannerDisplay.png"
                     sx={{
                       width: "100%", 
                       height: "100%", 

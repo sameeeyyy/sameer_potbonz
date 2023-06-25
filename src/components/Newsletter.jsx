@@ -145,7 +145,7 @@ export default function Newsletter() {
         },
       }}>
       <Container sx={{maxWidth: "1418px !important"}}>
-        <Box sx={{backgroundImage: "url(/Assets/images/newsletterBg.jpg)", 
+        <Box sx={{backgroundImage: "url(Assets/images/newsletterBg.jpg)", 
                   backgroundRepeat: "no-repeat", 
                   backgroundPosition: "center", 
                   borderRadius: "8px",
@@ -170,7 +170,7 @@ export default function Newsletter() {
                   <CardMedia
                       component= "img"
                       alt= ""
-                      image= "/Assets/images/newsletterDisplay1.png"
+                      image= "Assets/images/newsletterDisplay1.png"
                       sx={{
                         position: "absolute",
                         width: "423px",
@@ -245,7 +245,7 @@ export default function Newsletter() {
                   <CardMedia
                       component= "img"
                       alt= ""
-                      image= "/Assets/images/newsletterDisplay2.png"
+                      image= "Assets/images/newsletterDisplay2.png"
                       sx={{
                         position: "absolute",
                         width: "341px",
